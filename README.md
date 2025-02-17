@@ -1,7 +1,7 @@
 # 📄 PDF Signer - Firma automática de PDFs
 
 ## 🚀 Descripción
-Este es un script en **Python** que automatiza la firma de documentos PDF, analizando subcarpetas y organizando los archivos firmados en una estructura ordenada. Ideal para procesar múltiples PDFs de manera eficiente.
+Este es un script en **Python** que automatiza la firma de documentos PDF, analizando subcarpetas y organizando los archivos firmados en una estructura ordenada. Ideal para procesar múltiples PDFs de manera eficiente. (**Actualmente solo funciona en Mac**)
 
 ## 🛠️ Tecnologías usadas
 - **Python** 🐍
