@@ -18,21 +18,6 @@ Carpeta donde se mueven los documentos ya procesados
 <br>
 📄 script.py # Script principal
 
-## 🔧 Instalación y uso
-
-1️⃣ **Clona este repositorio**  
-```bash
-git clone https://github.com/tu-usuario/pdf-signer.git
-cd pdf-signer
-```
-2️⃣ **Instala las dependencias**
-```bash
-pip install -r requirements.txt
-```
-3️⃣ **Ejecuta el script**
-```bash
-python script.py
-```
 El programa recorrerá automáticamente las subcarpetas en pdfs_a_firmar, firmará los documentos y los guardará en pdfs_firmados.
 
 ## ✨ Funcionalidades
